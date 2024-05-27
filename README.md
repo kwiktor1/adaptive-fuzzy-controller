@@ -9,5 +9,5 @@ Run in the following order:
 3. refmodel.m
 4. optrefmodel.m
 
-5. adaptation_sim_part1.m
-6. adaptation_sim_part2.m
+5. adaptation_sim_part1.m (Experiment 1)
+6. adaptation_sim_part2.m (Experiment 2)
